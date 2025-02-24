@@ -1,7 +1,7 @@
 <div align="center">
 
 # 【ICLR 2025】🧪 Atomas: Hierarchical Adaptive Alignment on Molecule-Text for Unified Molecule Understanding and Generation <br>
-[Project Page](atomas.github.io) | [Paper](https://openreview.net/forum?id=mun3bGqdDM&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)) | [Report Bug](https://github.com/yikunpku/Atomas/issues) | [Citation](#Citation)
+[Project Page](https://yikunpku.github.io/_Atomas/) | [Paper](https://openreview.net/forum?id=mun3bGqdDM&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)) | [Report Bug](https://github.com/yikunpku/Atomas/issues) | [Citation](#Citation)
 
 </div>
 <!-- TABLE OF CONTENTS -->
