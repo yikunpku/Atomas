@@ -1,0 +1,29 @@
+version: "Atomas"  
+
+# data
+dataset: "ChEBI-20_data"
+train_split: "train"
+valid_split: "valid"
+test_split: "test"
+batch_size: 2
+max_lenth: 512
+
+# model
+model_size: "base"
+queue_size: 13200
+task: "genmol"
+tsclosswt: 1
+lmlosswt: 10
+wtilosswt: 1
+encode_text_lr: 1e-4
+encode_smiles_lr: 1e-4
+molt5_lr: 1e-4
+text_lr_scale: 0.1
+smiles_lr_scale: 0.1
+decay: 0
+
+# train
+precision: "bf16"
+accumulate_grad_batches: 1
+max_epochs: 100
+start_valid_epoch: 95
